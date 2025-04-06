@@ -1,6 +1,6 @@
 # Shopping App
 
-Welcome to the **Shopping App**, a SwiftUI-based project that showcases dynamic product listing, a shopping cart functionality, and favorite tracking. This app is designed with a clean user interface and responsive user experience.
+Welcome to the **Shopping App**, a SwiftUI-based project that showcases dynamic product listing, a shopping cart functionality, and favorite tracking. 
 
 ---
 
